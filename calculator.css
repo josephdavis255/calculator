@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+button {
+    border: none;
+    background-color: rgb(45, 45, 45);
+    color: white;
+    padding: 20px;
+    border-radius: 100px;
+    font-size: 30px;
+}
+
+.operator {
+    background-color: orange;
+}
